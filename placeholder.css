@@ -1,0 +1,32 @@
+.content {
+    margin-bottom: 50px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+    position: relative;
+    text-decoration: none;
+    margin: 0 30px;
+    top: 300px;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    top: 170px;
+}
+
+h3 {
+    position: relative;
+    text-align: center;
+    top: 200px;
+}
+
+p {
+    position: relative;
+    top: 230px;
+    text-align: center;
+}
