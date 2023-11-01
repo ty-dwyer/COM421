@@ -30,3 +30,17 @@ p {
     top: 230px;
     text-align: center;
 }
+
+body {
+    font-family: cofo;
+    background-color: rgb(252, 243, 229);
+}
+
+@font-face {
+    font-family: 'cofo';
+    src: url('fonts/CoFoSans-Regular.ttf') format('woff2');
+}
+
+a {
+    color: rgb(159, 15, 15);
+}
