@@ -1,0 +1,62 @@
+.content {
+    margin-bottom: 50px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+    position: relative;
+    text-decoration: none;
+    margin: 0 4vw;
+    top: 12vw;
+}
+
+h3 {
+    position: relative;
+    text-align: center;
+    top: 5vw;
+    color: rgb(252, 243, 229);
+    margin: 1vw;
+}
+
+p {
+    position: relative;
+    top: 8vw;
+    text-align: center;
+    color: rgb(252, 243, 229);
+    margin: 1vw;
+}
+
+body {
+    font-family: cofo;
+    background-color: rgb(252, 243, 229);
+}
+
+@font-face {
+    font-family: 'cofo';
+    src: url('../fonts/CoFoSans-Regular.ttf') format('woff2');
+}
+
+a {
+    color: rgb(159, 15, 15);
+}
+
+img {
+    position: relative;
+    left: 33vw;
+    width: 35vw;
+}
+
+.container {
+    background-color: #333333;
+    border-radius: 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+    position: absolute;
+    overflow: hidden;
+    width: 36vw;
+    top: 25vh;
+    height: 25vw;
+    left: 33vw;
+}
